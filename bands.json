@@ -1,0 +1,1052 @@
+[
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Sunday, April 26, 2015 11:13 AM",
+        "name": "Stein",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, November 10, 2014 9:56 PM",
+        "name": "Elsie",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, April 17, 2014 6:05 PM",
+        "name": "Webb",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "reprehenderit",
+      "enim",
+      "mollit",
+      "quis",
+      "enim",
+      "deserunt",
+      "eiusmod"
+    ],
+    "about": "Sit fugiat deserunt fugiat elit ea proident eiusmod nisi qui cupidatat quis. Consectetur ex proident aliqua laboris esse duis qui irure eiusmod officia aute. Dolor commodo officia proident nulla exercitation cupidatat nulla ipsum. Enim sit non adipisicing cillum quis. Qui incididunt sit qui ea tempor cupidatat.\r\n",
+    "label": "NEOCENT",
+    "name": "Deserunt fugiat ex minim quis consectetur magna laborum aliqua magna consectetur et consequat.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, May 19, 2015 5:40 AM",
+        "name": "Sloan",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, September 9, 2014 7:29 AM",
+        "name": "Webster",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Friday, September 19, 2014 6:12 AM",
+        "name": "James",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "fugiat",
+      "labore",
+      "nisi",
+      "anim",
+      "minim",
+      "officia",
+      "non"
+    ],
+    "about": "Proident pariatur fugiat aliqua ea. Elit cupidatat culpa fugiat cupidatat. Eiusmod minim proident irure adipisicing aute cillum consectetur excepteur elit deserunt. Mollit cupidatat id magna est ullamco pariatur id cupidatat qui.\r\n",
+    "label": "OVERFORK",
+    "name": "Aliqua ut eu dolor nisi.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Friday, May 9, 2014 8:21 AM",
+        "name": "Kay",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, January 8, 2014 8:32 AM",
+        "name": "Dunlap",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Sunday, June 14, 2015 3:45 PM",
+        "name": "Cheri",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "ex",
+      "elit",
+      "in",
+      "ullamco",
+      "sint",
+      "aute",
+      "consequat"
+    ],
+    "about": "Nostrud deserunt qui culpa nostrud veniam nostrud dolor. Occaecat proident voluptate magna magna. Ad nostrud incididunt ex ea cillum amet velit.\r\n",
+    "label": "TECHADE",
+    "name": "Lorem id nostrud incididunt deserunt.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Friday, May 30, 2014 8:31 AM",
+        "name": "Danielle",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, July 28, 2014 11:19 PM",
+        "name": "Trina",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, May 27, 2014 5:01 AM",
+        "name": "Cotton",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "nisi",
+      "quis",
+      "ex",
+      "tempor",
+      "sunt",
+      "qui",
+      "ad"
+    ],
+    "about": "Adipisicing proident dolor sunt laborum enim ea in. Do incididunt minim aliqua voluptate ad eiusmod reprehenderit nisi dolor. Ullamco nulla sint dolore fugiat Lorem pariatur pariatur sunt nisi fugiat consectetur eu. Et tempor proident do consectetur eiusmod sunt ipsum. Ullamco non mollit elit minim esse ea minim occaecat sint. Cupidatat Lorem consequat laboris est sit incididunt dolore dolor tempor dolor non amet. Tempor sit ea minim ut eiusmod eu tempor eiusmod do.\r\n",
+    "label": "DIGIFAD",
+    "name": "Consequat non do adipisicing enim veniam.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, February 7, 2015 4:42 AM",
+        "name": "Addie",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, October 2, 2014 12:13 PM",
+        "name": "Mcdowell",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, March 12, 2014 9:47 PM",
+        "name": "Ayala",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "cillum",
+      "aliquip",
+      "voluptate",
+      "esse",
+      "eu",
+      "consequat",
+      "id"
+    ],
+    "about": "Dolor dolor laboris labore officia commodo sint pariatur ea veniam anim laboris Lorem cillum. Id deserunt elit ex officia duis qui cillum ad officia fugiat exercitation ullamco laboris. Culpa voluptate sunt enim elit excepteur laboris laboris deserunt enim amet cillum aliqua duis. Qui veniam consectetur qui ut ea laboris ea mollit deserunt sunt do. Veniam in laborum ullamco fugiat. Quis ex veniam mollit id ea. Ipsum excepteur adipisicing pariatur incididunt id eu proident fugiat.\r\n",
+    "label": "XYQAG",
+    "name": "Anim aliqua culpa ipsum laborum ea fugiat culpa ad occaecat pariatur ea.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, September 1, 2014 8:36 PM",
+        "name": "Leila",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, November 6, 2014 3:12 PM",
+        "name": "Campbell",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Sunday, January 12, 2014 5:37 AM",
+        "name": "Glover",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "proident",
+      "nostrud",
+      "ut",
+      "velit",
+      "enim",
+      "ad",
+      "nostrud"
+    ],
+    "about": "In et ea laboris consectetur. Fugiat laboris voluptate mollit qui do ullamco magna ea cupidatat adipisicing deserunt amet incididunt non. Consectetur tempor consectetur ipsum aute labore. Laboris ad sint velit esse laborum officia irure elit sint voluptate deserunt consequat sit minim.\r\n",
+    "label": "EXTRAGEN",
+    "name": "Dolore culpa exercitation magna duis et ut velit culpa cupidatat minim tempor anim sint.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Friday, March 27, 2015 11:56 PM",
+        "name": "Nannie",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, July 19, 2014 7:02 AM",
+        "name": "Tia",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, October 1, 2014 11:35 AM",
+        "name": "Skinner",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "do",
+      "id",
+      "id",
+      "officia",
+      "ipsum",
+      "amet",
+      "anim"
+    ],
+    "about": "Aliquip nulla pariatur et enim proident ullamco Lorem sunt incididunt consectetur. Voluptate aliqua proident sunt est tempor aliquip et ea incididunt nisi. Est elit aute elit nostrud irure dolore sint esse sunt.\r\n",
+    "label": "MEDICROIX",
+    "name": "Laborum deserunt dolore deserunt eiusmod fugiat reprehenderit excepteur ipsum laboris ad nulla veniam cupidatat do.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, March 28, 2015 6:23 AM",
+        "name": "Anita",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, November 12, 2014 2:58 AM",
+        "name": "Laverne",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Sunday, July 6, 2014 2:25 AM",
+        "name": "Dixie",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "incididunt",
+      "cillum",
+      "veniam",
+      "irure",
+      "officia",
+      "non",
+      "et"
+    ],
+    "about": "Id esse in amet amet excepteur commodo tempor aliqua eiusmod laboris esse ipsum elit. Nisi sit eu proident ad ad. Ea enim dolore laboris qui minim nulla est anim veniam. Nostrud reprehenderit dolore eu ad voluptate nulla mollit laborum velit id in ut.\r\n",
+    "label": "QUARMONY",
+    "name": "Incididunt dolor esse veniam officia.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, June 18, 2015 3:39 PM",
+        "name": "Brooks",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, March 15, 2014 5:34 PM",
+        "name": "Walton",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, March 20, 2014 2:04 PM",
+        "name": "Newton",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "pariatur",
+      "minim",
+      "occaecat",
+      "labore",
+      "eu",
+      "nisi",
+      "laborum"
+    ],
+    "about": "Fugiat eiusmod aliqua mollit ullamco ex. Culpa consequat magna eiusmod dolor esse. Reprehenderit id officia do in. Ex reprehenderit officia duis ipsum adipisicing officia.\r\n",
+    "label": "CYTRAK",
+    "name": "Eiusmod tempor minim dolore consectetur esse tempor excepteur excepteur ex id sint irure.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, April 12, 2014 7:08 PM",
+        "name": "Vang",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, May 20, 2015 8:29 AM",
+        "name": "Zelma",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Sunday, April 26, 2015 8:13 PM",
+        "name": "Patrica",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "non",
+      "elit",
+      "irure",
+      "id",
+      "fugiat",
+      "ullamco",
+      "laboris"
+    ],
+    "about": "Ullamco tempor exercitation consectetur sint magna. Excepteur culpa elit sit nulla ut dolore fugiat non magna ad ullamco. Et velit laborum magna reprehenderit mollit laboris velit qui non adipisicing incididunt amet voluptate qui. Reprehenderit est amet Lorem quis reprehenderit aliquip mollit irure adipisicing ipsum est. Adipisicing ut enim excepteur eu velit pariatur aliquip consectetur proident dolor fugiat occaecat ut eu.\r\n",
+    "label": "SCENTY",
+    "name": "Elit aliquip aliqua nisi Lorem excepteur aliqua.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, June 4, 2014 11:15 AM",
+        "name": "Tricia",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, January 7, 2015 7:15 PM",
+        "name": "Johnnie",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Friday, March 6, 2015 3:14 PM",
+        "name": "Cara",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "sit",
+      "qui",
+      "esse",
+      "nisi",
+      "sint",
+      "id",
+      "duis"
+    ],
+    "about": "Ea exercitation sint do commodo culpa labore aliquip aliqua ut labore. Sunt reprehenderit Lorem occaecat laboris anim elit tempor. Ullamco nostrud aute sint excepteur occaecat duis ut cupidatat nisi. Veniam nisi incididunt incididunt do ea eu cillum consequat et qui. Dolore laboris anim non eiusmod quis ut mollit ex irure. Pariatur aute magna culpa quis aliquip cupidatat qui exercitation nostrud minim tempor pariatur reprehenderit.\r\n",
+    "label": "UXMOX",
+    "name": "Ea ex esse enim cillum elit ad.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, March 3, 2014 7:59 PM",
+        "name": "Reba",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, July 5, 2014 3:17 AM",
+        "name": "Little",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, February 6, 2014 7:56 PM",
+        "name": "Charlene",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "elit",
+      "excepteur",
+      "qui",
+      "laborum",
+      "deserunt",
+      "eu",
+      "ipsum"
+    ],
+    "about": "Non enim ipsum dolor magna aliquip exercitation velit est. Aute ad exercitation proident magna adipisicing aliquip quis velit veniam sit sit non commodo labore. Nulla ut aliqua laboris cillum adipisicing. Ullamco dolor minim ipsum incididunt culpa ut eu officia. Veniam consequat deserunt qui Lorem nulla laboris officia. Exercitation aute do consequat aliqua elit cillum exercitation ullamco voluptate in adipisicing anim. Ea aliquip quis aliqua laborum ex enim laborum tempor proident irure ea aliquip laboris.\r\n",
+    "label": "PAWNAGRA",
+    "name": "Exercitation adipisicing velit et ullamco elit nisi.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, March 7, 2015 12:57 AM",
+        "name": "Keisha",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, October 16, 2014 3:15 PM",
+        "name": "Olivia",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Friday, September 5, 2014 12:52 AM",
+        "name": "Cherry",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "proident",
+      "ullamco",
+      "do",
+      "esse",
+      "cillum",
+      "id",
+      "Lorem"
+    ],
+    "about": "Lorem do commodo quis ipsum tempor dolore cillum quis. Ullamco officia mollit irure sint qui quis ullamco anim officia deserunt occaecat incididunt sit. Id veniam fugiat eu adipisicing reprehenderit ullamco dolor enim deserunt quis Lorem incididunt. Eiusmod exercitation pariatur ad dolor proident officia consectetur eiusmod officia consectetur. Proident consectetur nostrud esse commodo eu ut irure incididunt quis amet qui adipisicing. Aliquip exercitation nostrud eiusmod anim laborum quis amet velit ad dolor laboris est. Tempor aute exercitation do aute.\r\n",
+    "label": "STELAECOR",
+    "name": "Ullamco elit culpa labore laborum excepteur qui laboris nulla qui aliqua amet voluptate officia est.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, July 29, 2014 6:57 PM",
+        "name": "Phoebe",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, October 28, 2014 7:00 AM",
+        "name": "Clemons",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, September 3, 2014 1:46 AM",
+        "name": "Marci",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "incididunt",
+      "cupidatat",
+      "ullamco",
+      "cillum",
+      "anim",
+      "culpa",
+      "id"
+    ],
+    "about": "Eiusmod nisi pariatur ad irure. Reprehenderit minim nostrud qui deserunt mollit pariatur ex nulla. Ea et consectetur ipsum ipsum aliqua. Veniam voluptate sunt eiusmod elit deserunt ad pariatur elit amet sunt eu sunt excepteur minim. Irure sunt dolor exercitation Lorem enim amet labore velit pariatur ea qui ex. Ad adipisicing mollit culpa eiusmod velit deserunt magna anim reprehenderit.\r\n",
+    "label": "VIASIA",
+    "name": "Reprehenderit sunt excepteur nisi ullamco labore consectetur labore incididunt velit.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, January 17, 2015 10:50 PM",
+        "name": "Bruce",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, March 3, 2014 6:03 PM",
+        "name": "Santana",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, May 7, 2015 1:16 AM",
+        "name": "Calderon",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "fugiat",
+      "amet",
+      "labore",
+      "nostrud",
+      "incididunt",
+      "laboris",
+      "dolor"
+    ],
+    "about": "Labore officia ea sint reprehenderit ex ullamco quis incididunt ut nisi quis duis. Eu adipisicing Lorem mollit ea voluptate et irure. Magna aliquip non minim occaecat ex proident aute eu mollit dolore adipisicing fugiat.\r\n",
+    "label": "IMAGINART",
+    "name": "Magna irure ex ex sit proident esse aute.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, June 23, 2014 2:45 PM",
+        "name": "Robinson",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, January 11, 2014 7:32 PM",
+        "name": "Blackburn",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, March 18, 2015 2:30 AM",
+        "name": "Cobb",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "laboris",
+      "fugiat",
+      "aliqua",
+      "consequat",
+      "sint",
+      "officia",
+      "ipsum"
+    ],
+    "about": "Cillum aliqua sit consectetur culpa. Est quis pariatur minim ut quis commodo ea tempor tempor officia. Minim ex consequat minim ullamco sunt magna dolore nulla magna in. Ad consequat laboris est aliqua ad pariatur mollit ipsum sint et.\r\n",
+    "label": "QUADEEBO",
+    "name": "Reprehenderit cillum reprehenderit id cillum Lorem sunt duis ipsum ad laborum non voluptate voluptate esse.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, April 29, 2014 11:49 AM",
+        "name": "Ramos",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, August 20, 2014 6:07 PM",
+        "name": "Phillips",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Sunday, October 19, 2014 2:50 AM",
+        "name": "Mitzi",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "et",
+      "sit",
+      "fugiat",
+      "est",
+      "voluptate",
+      "adipisicing",
+      "sunt"
+    ],
+    "about": "Dolor culpa ut non officia adipisicing dolor tempor enim. Occaecat occaecat laborum ea nostrud nostrud nulla aute reprehenderit incididunt. Minim dolor commodo sunt nulla commodo adipisicing velit sunt. Officia non ea nulla fugiat id duis culpa est.\r\n",
+    "label": "ISOLOGIX",
+    "name": "Pariatur enim fugiat voluptate sit irure et dolor duis sunt voluptate amet anim qui.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, March 15, 2014 3:39 PM",
+        "name": "Trevino",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, September 24, 2014 7:49 PM",
+        "name": "Valarie",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Friday, December 5, 2014 4:25 AM",
+        "name": "Myrtle",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "nisi",
+      "reprehenderit",
+      "do",
+      "esse",
+      "aliquip",
+      "aute",
+      "officia"
+    ],
+    "about": "Dolore ea veniam duis officia excepteur quis veniam aliquip. Est eiusmod esse anim ea sunt irure consequat aute ex magna elit fugiat. Consequat nisi magna id commodo mollit ullamco commodo. Eu minim ad in dolor excepteur ex occaecat adipisicing aliqua ex incididunt voluptate officia. Aute aliqua consequat elit aliqua laborum.\r\n",
+    "label": "EARBANG",
+    "name": "Et sint laboris amet sit deserunt mollit ad.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, June 21, 2014 3:11 AM",
+        "name": "Claire",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, January 4, 2014 5:00 PM",
+        "name": "Mcdonald",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, March 17, 2015 4:40 AM",
+        "name": "Janis",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "aute",
+      "non",
+      "aute",
+      "Lorem",
+      "culpa",
+      "velit",
+      "ut"
+    ],
+    "about": "Laborum in amet ad exercitation irure dolor enim ea. Minim ad nisi labore sint ex ex do. Duis voluptate do ipsum Lorem et fugiat qui ea occaecat Lorem laboris pariatur. Est esse sit eiusmod officia qui veniam labore enim elit sit tempor ut quis.\r\n",
+    "label": "FANGOLD",
+    "name": "Pariatur tempor duis pariatur et aliquip eu sit pariatur labore ullamco occaecat.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, February 24, 2014 7:55 PM",
+        "name": "Nicholson",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, June 18, 2015 8:36 AM",
+        "name": "Laura",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, July 21, 2014 9:03 AM",
+        "name": "Barton",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "culpa",
+      "laboris",
+      "eu",
+      "fugiat",
+      "eu",
+      "veniam",
+      "ad"
+    ],
+    "about": "Sunt laboris cupidatat reprehenderit veniam ullamco est. Sunt consectetur do laborum commodo cupidatat. Sit velit dolore elit exercitation ad non reprehenderit cillum irure. Dolore cupidatat culpa ea in ipsum deserunt culpa eiusmod do adipisicing est nulla eu.\r\n",
+    "label": "TERRASYS",
+    "name": "Anim veniam occaecat ipsum sit tempor.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, March 17, 2014 3:40 PM",
+        "name": "Wolf",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, July 9, 2014 10:53 AM",
+        "name": "Puckett",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, April 22, 2014 8:16 PM",
+        "name": "Stephenson",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "sunt",
+      "consequat",
+      "occaecat",
+      "officia",
+      "aute",
+      "eiusmod",
+      "sint"
+    ],
+    "about": "Excepteur culpa ut magna nostrud veniam dolore veniam elit ut nostrud ea. Aliquip ad est proident consectetur sit dolor qui magna et laborum duis cupidatat veniam. Cillum officia elit et quis. Minim deserunt esse officia est enim quis ex. Fugiat aliquip velit nostrud consectetur nostrud proident nulla amet nisi anim ea do occaecat.\r\n",
+    "label": "QUILITY",
+    "name": "Ut fugiat amet dolor in ut proident ullamco tempor duis culpa consequat et sit duis.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Friday, September 26, 2014 8:16 PM",
+        "name": "Stout",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, June 3, 2015 3:17 PM",
+        "name": "Latisha",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, February 11, 2014 5:53 AM",
+        "name": "Maggie",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "sunt",
+      "velit",
+      "nostrud",
+      "ut",
+      "pariatur",
+      "excepteur",
+      "cillum"
+    ],
+    "about": "Anim nisi ipsum ea exercitation eiusmod duis est cupidatat. Et et nisi in veniam enim commodo adipisicing magna velit laborum nostrud velit. Velit sit mollit dolor sunt.\r\n",
+    "label": "SATIANCE",
+    "name": "Fugiat dolore sint ea eu voluptate incididunt ex sunt dolore non.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, October 14, 2014 6:43 PM",
+        "name": "Casandra",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, June 14, 2014 5:39 PM",
+        "name": "Garner",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, April 8, 2014 5:36 AM",
+        "name": "Gould",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "amet",
+      "aliquip",
+      "sunt",
+      "proident",
+      "sunt",
+      "deserunt",
+      "excepteur"
+    ],
+    "about": "Est elit culpa ea consequat reprehenderit ea reprehenderit Lorem aliqua laboris do irure exercitation laborum. Cupidatat ullamco cillum nulla sunt dolor amet sit adipisicing laboris quis. Dolore minim eiusmod eu est eu excepteur reprehenderit irure do consequat officia proident duis eu. Veniam pariatur deserunt do velit qui sit nulla laboris Lorem nostrud nisi nostrud. Enim dolor do exercitation sunt ut. Aliquip proident amet ad eiusmod ex sint adipisicing occaecat sit ullamco dolore et. Nisi anim anim dolor consequat laboris duis occaecat laborum anim sit excepteur fugiat magna ea.\r\n",
+    "label": "ACCUFARM",
+    "name": "Nostrud adipisicing id dolore sunt ipsum nulla deserunt proident minim irure ut proident.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, July 19, 2014 6:31 PM",
+        "name": "Frazier",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Sunday, August 3, 2014 8:47 PM",
+        "name": "Schwartz",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, May 21, 2014 9:19 AM",
+        "name": "Marian",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "labore",
+      "aliqua",
+      "anim",
+      "irure",
+      "consequat",
+      "est",
+      "laboris"
+    ],
+    "about": "Dolore ex adipisicing ex amet officia veniam officia id laboris eiusmod aliqua deserunt. Fugiat anim reprehenderit nisi eiusmod. Consequat ullamco minim exercitation elit consequat. Esse enim labore sint fugiat. Cupidatat sunt occaecat et ex anim quis minim tempor officia ea adipisicing esse sunt. Ex exercitation anim excepteur laboris id quis irure aliquip quis.\r\n",
+    "label": "COMVEYOR",
+    "name": "Ex ex Lorem occaecat minim.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, June 4, 2014 3:58 PM",
+        "name": "Downs",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, January 18, 2014 2:01 AM",
+        "name": "April",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, December 8, 2014 10:01 PM",
+        "name": "Harper",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "officia",
+      "voluptate",
+      "exercitation",
+      "Lorem",
+      "aliqua",
+      "anim",
+      "id"
+    ],
+    "about": "Mollit amet pariatur sint elit veniam et nulla. Nulla aute eu commodo fugiat incididunt sint id elit Lorem cillum cillum. Laboris ipsum aliquip qui dolor ad culpa sit cillum nostrud aliqua Lorem incididunt aliqua dolore. Pariatur anim minim Lorem quis fugiat elit. Sit esse aliqua nulla occaecat consectetur non exercitation adipisicing cupidatat consectetur est labore exercitation enim. Reprehenderit nisi proident ipsum nisi reprehenderit et ut sint non laboris cupidatat cillum cupidatat.\r\n",
+    "label": "TELEPARK",
+    "name": "Duis fugiat reprehenderit irure dolor sunt amet elit fugiat laboris nostrud sit.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, May 19, 2015 3:42 PM",
+        "name": "English",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Tuesday, August 12, 2014 4:32 PM",
+        "name": "Sargent",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, January 9, 2014 12:55 PM",
+        "name": "Beverly",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "consectetur",
+      "magna",
+      "qui",
+      "do",
+      "nisi",
+      "nisi",
+      "laboris"
+    ],
+    "about": "Nisi deserunt ad adipisicing amet proident id ut aliquip ipsum occaecat sint. Labore reprehenderit incididunt ullamco laboris ipsum qui commodo mollit culpa culpa veniam laborum eu. Ipsum tempor labore aliquip cupidatat irure dolor consectetur duis ea laboris elit sint adipisicing. Eu deserunt excepteur eiusmod eu dolor ullamco sunt dolore anim commodo laboris culpa. Magna veniam pariatur voluptate consequat dolor sunt dolor cillum sint magna do laborum.\r\n",
+    "label": "MACRONAUT",
+    "name": "Minim reprehenderit aliqua quis ut ea adipisicing et.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, January 29, 2014 3:58 PM",
+        "name": "Hess",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, May 7, 2014 2:52 PM",
+        "name": "Autumn",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Sunday, January 19, 2014 5:21 PM",
+        "name": "Callie",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "nisi",
+      "mollit",
+      "adipisicing",
+      "sit",
+      "aliqua",
+      "ad",
+      "sint"
+    ],
+    "about": "Sunt nisi magna veniam pariatur consequat incididunt quis occaecat et labore consectetur esse labore. Cupidatat qui aliqua ullamco eu ad. Non proident officia aute quis sit ex incididunt consectetur fugiat ad. Esse elit mollit nisi magna ea. Et sit id nisi deserunt consectetur fugiat aliqua. Excepteur elit culpa exercitation voluptate dolore aute consequat et.\r\n",
+    "label": "VOIPA",
+    "name": "Dolor quis voluptate ipsum ullamco amet nostrud.",
+    "onTour": false
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, March 23, 2015 9:30 AM",
+        "name": "York",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Wednesday, December 24, 2014 7:16 PM",
+        "name": "Robbie",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Friday, April 17, 2015 1:01 PM",
+        "name": "Arlene",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "voluptate",
+      "eiusmod",
+      "pariatur",
+      "dolor",
+      "exercitation",
+      "aliqua",
+      "sit"
+    ],
+    "about": "Fugiat nulla dolor aute sit sunt elit elit labore sint elit minim quis aute nisi. Aliqua ullamco aliquip et dolor. Lorem enim pariatur culpa enim magna reprehenderit deserunt fugiat sit excepteur proident Lorem nostrud. Ipsum culpa aute reprehenderit cillum quis non ad ex et pariatur minim. Excepteur laborum commodo fugiat aliqua ad esse consectetur commodo ullamco commodo dolore nulla aliquip officia. Ea consectetur pariatur elit non ex nostrud sint cillum veniam tempor. Qui culpa incididunt qui excepteur officia aliquip occaecat.\r\n",
+    "label": "CENTREGY",
+    "name": "Pariatur occaecat magna adipisicing id veniam do esse amet esse aliqua laborum exercitation nostrud ut.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Saturday, August 16, 2014 10:28 AM",
+        "name": "Holmes",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Sunday, December 7, 2014 9:15 AM",
+        "name": "Cain",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, September 22, 2014 12:49 AM",
+        "name": "Roslyn",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "esse",
+      "aliquip",
+      "ad",
+      "exercitation",
+      "quis",
+      "magna",
+      "exercitation"
+    ],
+    "about": "Ea eu aliqua ex aute adipisicing. Exercitation eiusmod occaecat amet id tempor sunt. Ea consectetur proident duis occaecat magna eu exercitation laboris minim elit incididunt pariatur et.\r\n",
+    "label": "ZYTRAX",
+    "name": "Commodo incididunt Lorem voluptate labore enim ex nulla commodo officia anim.",
+    "onTour": true
+  },
+  {
+    "albums": [
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Monday, March 17, 2014 9:09 AM",
+        "name": "Evans",
+        "id": 0
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, June 4, 2015 5:40 PM",
+        "name": "Mcconnell",
+        "id": 1
+      },
+      {
+        "art": "http://placehold.it/32x32",
+        "release": "Thursday, July 3, 2014 6:24 PM",
+        "name": "Pruitt",
+        "id": 2
+      }
+    ],
+    "genres": [
+      "dolore",
+      "deserunt",
+      "sit",
+      "eiusmod",
+      "adipisicing",
+      "non",
+      "velit"
+    ],
+    "about": "Cillum nostrud aliqua amet reprehenderit eiusmod ad eiusmod commodo sit consectetur sunt. Mollit exercitation aute sint nostrud fugiat cupidatat tempor anim. Eu do ad do eiusmod dolore excepteur.\r\n",
+    "label": "JASPER",
+    "name": "Ea cillum elit aliqua officia reprehenderit cillum consectetur minim.",
+    "onTour": false
+  }
+]
